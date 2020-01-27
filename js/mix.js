@@ -20,3 +20,5 @@ function copyProperties(target, source) {
     }
   }
 }
+
+module.exports = mix;
